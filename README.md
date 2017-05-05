@@ -1,2 +1,1 @@
-# react-drawing-with-rxjs
-react drawing with rxjs
+# react-drawing-example Observer pattern with RXJS
